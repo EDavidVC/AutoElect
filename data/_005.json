@@ -1,0 +1,91 @@
+{
+	"title" : "Latiguillos y conductos de freno",
+	"link" : "https://arequipa-puno.electude.com/sco7.76.8.gdf7273e80/module_1505_10935312_12966062",
+	"reply":[
+		[
+			{
+				"_type" : "02_id",
+				"_answer" : ["map_11_line"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Asegurar una conexión rígida entre la bomba de freno y los latiguillos.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_55982":"_true","_answer_55983":"_false","_answer_40694":"_true","_answer_55981":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			}
+		],
+		[
+			{
+				"_type" : "02_id",
+				"_answer" : ["map_21_hose"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "06_id_offset",
+				"_answer" : {"element":"wheel", "x":0, "y":10},
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Asegurar una conexión flexible entre el conducto de freno y la pinza de freno.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_55985":"_false","_answer_55984":"_true","_answer_55989":"_true","_answer_39925":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			}
+
+		],
+		[
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_40706":"_false","_answer_40699":"_true","_answer_40705":"_false","_answer_40704":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "El latiguillo de freno está retorcido.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Hay manchas de desgaste causadas por el roce.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Hay una protuberancia en el latiguillo.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Hay pequeñas grietas en el latiguillo.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "end",
+				"_answer" : "",
+				"_isOk" : false,
+				"_wait" : 0
+			}
+		]
+	]
+}

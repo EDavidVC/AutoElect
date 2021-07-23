@@ -1,0 +1,230 @@
+{
+	"title" : "Disco De freno",
+	"link" : "https://arequipa-puno.electude.com/sco7.76.4.gf85802e2b/module_1494_10935312_12966062",
+	"reply" : [
+		[
+			{
+				"_type" : "02_id",
+				"_answer" : ["map_11_disc"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Con los tornillos de la rueda.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "02_class",
+				"_answer" : ["_cover"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Conversión de energía cinética en calor.",
+				"_isOk" : true,
+				"_wait" : 0
+			}
+		],
+		[
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_43432":"_true","_answer_43437":"_false","_answer_43435":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_43438":"_true","_answer_43440":"_false","_answer_43439":"_true","_answer_43431":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Mejor desaceleración.",
+				"_isOk" : true,
+				"_wait" : 0
+			}
+		],
+		[
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_43446":"_false","_answer_43447":"_false","_answer_43445":"_true","_answer_43429":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_43449":"_true","_answer_43448":"_true","_answer_43428":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "02_id",
+				"_answer" : ["map_33_common","map_33_groove","map_33_perforate","map_33_rotor","map_33_ventilate","map_33_ceramic"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Un disco de freno rotor, ranurado y perforado.",
+				"_isOk" : true,
+				"_wait" : 0
+			}
+		],
+		[
+			{
+				"_type" : "01",
+				"_answer" : "El disco de freno está ranurado.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_43479":"_true","_answer_43480":"_true","_answer_43481":"_false","_answer_43482":"_false"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Este disco de freno tiene manchas de calor.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Rectificar el disco de freno.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "El disco de freno tiene restos de pastillas.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Rectificar el disco de freno.",
+				"_isOk" : true,
+				"_wait" : 0
+			}
+		],
+		[
+			{
+				"_type" : "01",
+				"_answer" : "El disco de freno está azulado.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Seguir utilizando el disco de freno.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "El disco de freno está agrietado.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Reemplazar el disco de freno.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "El disco de freno tiene fisuras del calor.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Seguir utilizando el disco de freno.",
+				"_isOk" : true,
+				"_wait" : 0
+			}
+		],
+		[
+			{
+				"_type" : "05",
+				"_answer" : "28",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "03_ids",
+				"_answer" :
+				{
+					"vernier":"background: url('6813/venierScale.svg') no-repeat; width: 200px; height: 244px; top: 50px; left: 249px; cursor: pointer;",
+					"closeupBox":"top: 30px; width: 175px; height: 125px; left: 265px; border-radius: 15px; border: 5px solid rgb(0, 0, 0); background: rgb(204, 204, 204); opacity: 0.3; cursor: pointer;",
+					"coverDiv":"width: 135px; height: 135px; left: 315px; top: 160px;",
+					"ruler":"background: url('6813/ruler.svg') no-repeat; width: 674px; height: 244px; cursor: pointer; top: 50px; left: -10px;",
+					"vcBg":"background: url('6813/venierBg.svg') no-repeat; width: 609px; height: 107px; left: 235px; top: 50px; z-index: 0;",
+					"vCExe":"top: 153px; left: 2px; width: 650px; height: 295px; transform: scale(-0.5); visibility: visible;"
+				},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "06_id_offset",
+				"_answer" :{"element":"closeupBox", "x":40,"y":0},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "multi",
+				"_answer" : {
+					"05":"28.25",
+					"02_id":["screwClickDiv"]
+				},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "multi",
+				"_answer" : {
+					"02_id":["screwClickDiv"],
+					"06_id_offset" :{"element":"closeupBox", "x":"-40", "y":0},
+					"06_id_offset" :{"element":"ruler", "x":0,"y":100}									
+				},
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "03_ids",
+				"_answer" :	{
+					"dragDiv":"background: rgb(255, 0, 0); opacity: 0; left: 400px; width: 66px; height: 270px; cursor: pointer; visibility: visible;",
+					"indicatorCircle":"background: url('6813/arrowCircle.svg'); width: 8px; height: 8px; left: 211px; top: 109px; transform-origin: -90px 0px; transform: rotate(279deg); visibility: visible;",
+					"discAni":"left: 405px; top: -52px; background-image: url('6813/schijf54x314x11.png'); background-size: 540px 628px; width: 54px; height: 314px; transform: scale(-1.05); visibility: visible; background-position: -270px 0px;",
+					"miniAni":"left: 20px; top: 10px; background-image: url('6813/mini_200x200x40.jpg'); background-size: 2000px 800px; width: 200px; height: 200px; visibility: visible; background-position: -1200px -400px;"
+				},
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "05",
+				"_answer" : "28.25",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "05",
+				"_answer" : "27.5",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "end",
+				"_answer" : "",
+				"_isOk" : false,
+				"_wait" : 0
+			}			
+		]
+	]
+}

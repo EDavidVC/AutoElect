@@ -1,0 +1,64 @@
+{
+	"title" : "Sensor de nivel de líquido de frenos",
+	"link" : "https://arequipa-puno.electude.com/sco7.75.46.g3f84f08c6/module_1553_10935312_12966052",
+	"reply" : [
+		[
+			{
+				"_type" : "02_id",
+				"_answer" : ["map_11_reservior"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_43308":"_false","_answer_43306":"_true","_answer_43303":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_43319":"_false","_answer_43318":"_false","_answer_43317":"_true","_answer_43316":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_43324":"_false","_answer_43321":"_true","_answer_43322":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			}
+		],
+		[
+			{
+				"_type" : "02_id",
+				"_answer" : ["map_11_reservior"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_43344":"_false","_answer_43338":"_true","_answer_43343":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_43378":"_false","_answer_43375":"_true", "_answer_43377":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "02_id",
+				"_answer" : ["map_24_float", "map_24_strip", "map_24_lamp"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "end",
+				"_answer" : "",
+				"_isOk" : false,
+				"_wait" : 0
+			}
+		]
+	]
+}

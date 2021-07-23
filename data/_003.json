@@ -1,0 +1,64 @@
+{
+	"title" : "Ley de Pascal",
+	"link" : "https://arequipa-puno.electude.com/sco7.76.4.gf85802e2b/module_1534_10935312_12966052",
+	"reply" : [
+		[
+			{
+				"_type" : "06_id_id",
+				"_answer" : {"drag_l":"piston_l"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_59771":"_true","_answer_42075":"_true","_answer_59597":"_false","_answer_59770":"_true","_answer_43689":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "06_id_id",
+				"_answer" : {"drag_r_med":"piston_r"},
+				"_isOk" : true,
+				"_wait" : 0
+			}
+		],
+		[
+			{
+				"_type" : "06_id_id",
+				"_answer" :{"drag_l":"piston_l"},
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "El nivel del agua en la columna de la derecha es más alto que en la columna de la izquierda.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "06_id_id",
+				"_answer" : {"drag_r_1":"piston_r","drag_r_2":"piston_r","drag_r_3":"piston_r","drag_r_4":"piston_r"},
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "05",
+				"_answer" : "15",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_59610":"_false","_answer_59609":"_true","_answer_59997":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "end",
+				"_answer" : "",
+				"_isOk" : false,
+				"_wait" : 0
+			}
+		]
+	]
+}

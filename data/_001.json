@@ -1,0 +1,164 @@
+{
+	"title" : "Condensadores",
+	"link" : "https://arequipa-puno.electude.com/sco7.75.46.g3f84f08c6/module_200001997_10935312_12966072",
+	"reply" : [
+		[
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_75445" : "_false", "_answer_75444" : "_true", "_answer_75443" : "_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_72456" : "_false", "_answer_72447":"_true", "_answer_72455":"_true", "_answer_72454":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Su capacidad cambia por las vibraciones del sonido.",
+				"_isOk" : true,
+				"_wait" : 0
+			}
+
+		],
+		[
+			{
+				"_type" : "01",
+				"_answer" : "Energía eléctrica.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "02_id",
+				"_answer" : ["map22_capacitor","map22_polarCapacitor"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "02_id",
+				"_answer" : ["map23_capacitorSymbol","map23_polarCapacitorSymbol"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "02_id",
+				"_answer" : ["map22_variableCapacitor"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "02_id",
+				"_answer" : ["map23_variableCapacitorSymbol"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Capacidad.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Faradio.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Una capacidad muy grande.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "120 µF",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "120.000 nF",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "05",
+				"_answer" : "16",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "05",
+				"_answer" : "0.01",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "05",
+				"_answer" : "1000",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_72493" : "_false", "_answer_72491":"_true", "_answer_72492":"_false", "_answer_72490":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			}
+		],
+		[
+			{
+				"_type" : "01",
+				"_answer" : "Placas.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "02_id",
+				"_answer" : ["map31_connectingLegs","map31_dielectric","map31_electrodesOrPlates"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "04",
+				"_answer" : {"_answer_72501" : "_false", "_answer_72497":"_true", "_answer_72498":"_true", "_answer_72499":"_true"},
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "01",
+				"_answer" : "Esta es la relación entre los diferentes materiales.",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "05",
+				"_answer" : "1",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "05",
+				"_answer" : "24",
+				"_isOk" : true,
+				"_wait" : 0
+			},
+			{
+				"_type" : "02_id",
+				"_answer" : ["map37_largestCapacity","map37_mediumCapacity","map37_smallestCapacity"],
+				"_isOk" : false,
+				"_wait" : 0
+			},
+			{
+				"_type" : "end",
+				"_answer" : "",
+				"_isOk" : false,
+				"_wait" : 0
+			}
+
+		]
+	]
+}
